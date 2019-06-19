@@ -1,0 +1,8 @@
+.header_bg {
+    width: 100%;
+    height: 740px;
+    background: url(./header_bkg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* тут чекни что с картинкой при уменьшении*/
+}
